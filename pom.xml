@@ -771,7 +771,7 @@
 
         <!--Swagger Dependency Version-->
         <jackson.version>1.8.6</jackson.version>
-        <spring-web.version>4.1.6.RELEASE</spring-web.version>
+        <spring-web.version>4.2.7.RELEASE</spring-web.version>
         <swagger-jaxrs.version>1.5.2</swagger-jaxrs.version>
 
         <!--Test Dependencies-->
